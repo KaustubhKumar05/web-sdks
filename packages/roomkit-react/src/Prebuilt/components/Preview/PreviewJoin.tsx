@@ -137,7 +137,7 @@ const PreviewJoin = ({
             variant="h4"
             css={{ wordBreak: 'break-word', textAlign: 'center', mt: '$14', mb: '$4', '@md': { mt: '$8', mb: '$2' } }}
           >
-            {previewHeader.title}
+            Test
           </Text>
           <Text
             css={{ c: '$on_surface_medium', my: '0', textAlign: 'center', maxWidth: '100%', wordWrap: 'break-word' }}
